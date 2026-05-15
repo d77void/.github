@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=d77void.pn style="width: 192px" />
+  ![logo](d77void.png)
 </p>
 
 # ![logo](d77void.png) d77void
