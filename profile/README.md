@@ -1,5 +1,5 @@
 <div align="center">
- ![logo](d77void.png) d77void
+ d77void
 </div>
 <hr>
 
