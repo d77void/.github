@@ -14,6 +14,6 @@ Originally initiated as a Void respin with Fluxbox it has evolved to offer a wid
  
 Providing Calamares as installer, it is super easy to install on your PC.
 
-With various pre-built and configured ISOs you can download from [Sourceforge](https://sourceforge.net/projects/d77void/files/), it is almost impossible not to find something to try.
+With various pre-built and configured ISOs, you can download from [Sourceforge](https://sourceforge.net/projects/d77void/files/), it's almost impossible not to find something to try.
 
 <hr>
