@@ -1,6 +1,8 @@
 <div align="center">
- ![logo](d77void.png)
- d77void
+   <img src="https://avatars.githubusercontent.com/u/284721462?s=96&v=4" alt="d77 Logo" style="width: 96px" />
+   </div>
+<div align="center">
+ # d77void
 </div>
 <hr>
 
