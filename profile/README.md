@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=d77void.pn style="width: 192px" />
+</p>
+
 # ![logo](d77void.png) d77void
 
 <hr>
