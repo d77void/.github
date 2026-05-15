@@ -1,9 +1,9 @@
 <div align="center">
-   <img src="https://avatars.githubusercontent.com/u/284721462?s=96&v=4" alt="d77 Logo" style="width: 96px" />
+   <img src=https://github.com/d77void/.github/blob/main/profile/d77void.png?raw=true alt="d77 Logo" style="width: 96px" />
    </div>
-<div align="center">
+   <div align="center">
    d77void
-</div>
+   </div>
 <hr>
 
 d77void is a custom Void Linux distribution focused on ease of install and use.
