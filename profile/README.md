@@ -1,9 +1,5 @@
-<p align="center">
-  <![logo](d77void.png)>
-</p>
-
-# ![logo](d77void.png) d77void
-
+# <p style="text-align: center;"> ![logo](d77void.png) d77void
+ </p>
 <hr>
 
 d77void is a custom Void Linux distribution focused on ease of install and use.
