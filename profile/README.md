@@ -6,18 +6,11 @@
    </div>
 <hr>
 
-d77void is a custom Void Linux distribution focused on ease of install and use.
+d77void is a custom Void Linux distribution focused on simplicity, usability, and a streamlined installation experience.
 
-It was created to demonstrate the capabilities of Void's tools, such as void-mklive and void-packages. 
+Built for x86_64 with glibc, d77void showcases the flexibility of the Void Linux ecosystem and its tooling, including void-mklive and void-packages.
 
-Built for the x86_64 architecture, with glibc.
- 
-For now, won't be any other architecture nor library.
+What started as a simple Void respin with Fluxbox has grown into a versatile project offering a wide selection of window managers and desktop environments, including Awesome, BSPWM, DWM, Fluxbox, Hyprland, i3, Labwc, Niri, Openbox, Qtile, River, Sway, Wayfire, GNOME, LXQt, Plasma, and XFCE.
 
-Originally initiated as a Void respin with Fluxbox it has evolved to offer a wide range of options, including the window managers awesome, bspwm, dwm, fluxbox, herbstluftwm, hyprland, i3wm, JWM, labwc, leftwm, mangowc, niri, openbox, qtile, river, sway, wayfire and the desktop environments Gnome, LXQt, Plasma and XFCE.
- 
-Providing Calamares as installer, it is super easy to install on your PC.
-
-With various pre-built and configured ISOs, you can download from [Sourceforge](https://sourceforge.net/projects/d77void/files/), it's almost impossible not to find something to try.
-
+With the Calamares installer included and multiple pre-configured ISOs available, d77void makes it easy to install and explore Void Linux with the environment that best fits your workflow.
 <hr>
